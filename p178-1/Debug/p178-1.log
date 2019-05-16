@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  p178-1.cpp
+d:\vs test\p178-1\p178-1\p178-1.cpp(11): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  p178-1.vcxproj -> D:\VS test\p178-1\Debug\p178-1.exe

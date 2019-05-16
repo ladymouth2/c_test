@@ -1,0 +1,3 @@
+﻿  p166-16.cpp
+d:\vs test\p166-16\p166-16\p166-16.cpp(11): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  p166-16.vcxproj -> D:\VS test\p166-16\Debug\p166-16.exe
